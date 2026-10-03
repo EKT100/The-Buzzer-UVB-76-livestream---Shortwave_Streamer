@@ -31,8 +31,8 @@ How to use kiwi-reload
    9. After that, look carefully in Command Prompt and you will find 4 IPv4 addresses
    10. At this line: 2026-10-03 15:57:24,146 [INFO] ←[31m←[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.←[0m
  * Running on all addresses (0.0.0.0)
- * Running on http://127.0.0.1:5001
- * Running on http://192.168.1.120:5001
+ * Running on http://xxx.0.0.x:5001
+ * Running on http://xxx.xxx.x.xxx:5001
  * 11. Highlight the 1st IPv4 address "http://127.0.0.1:5001" this is the link to go into the kiwi-reloader settings where you can tweak a bunch of settings to your desires
    12. Press Control + C to copy the IPv4 address and then go into your browser and type: 'FireFox download" and click the 1st option (FireFox is recommended for this)
    13. Once FireFox downloaded, Install it and go through it's setup process.
